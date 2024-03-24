@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entitati>
+    <student ID="1">
+        <Nume>Cata Afra</Nume>
+        <Grupa>500</Grupa>
+    </student>
+    <student ID="2">
+        <Nume>Diana Regina Mea</Nume>
+        <Grupa>420</Grupa>
+    </student>
+    <student ID="3">
+        <Nume>Razvan Farcas</Nume>
+        <Grupa>932</Grupa>
+    </student>
+</Entitati>
