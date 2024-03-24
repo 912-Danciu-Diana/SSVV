@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6209b9d1-8101-45a7-ae12-e04861e575e9" name="Changes" comment="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality">
+    <list default="true" id="6209b9d1-8101-45a7-ae12-e04861e575e9" name="Changes" comment="-changed java version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711276417296</updated>
-      <workItem from="1711276418706" duration="6291000" />
+      <workItem from="1711276418706" duration="6509000" />
     </task>
     <task id="LOCAL-00001" summary="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality">
       <option name="closed" value="true" />
@@ -128,7 +129,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711282685063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-changed java version">
+      <option name="closed" value="true" />
+      <created>1711284260658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711284260658</updated>
+    </task>
+    <task id="LOCAL-00003" summary="-changed java version">
+      <option name="closed" value="true" />
+      <created>1711284323598</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711284323598</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +153,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality" />
+    <MESSAGE value="-changed java version" />
+    <option name="LAST_COMMIT_MESSAGE" value="-changed java version" />
   </component>
 </project>
