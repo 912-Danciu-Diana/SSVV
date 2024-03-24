@@ -4,51 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6209b9d1-8101-45a7-ae12-e04861e575e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ana.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maria.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/console/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/HasID.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Tema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractCRUDRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/AbstractXMLRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/CRUDRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/NotaFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/NotaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/NotaXMLRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/StudentFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/StudentXMLRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/TemaFileRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/TemaRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/repository/TemaXMLRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/validation/NotaValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/validation/StudentValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/validation/TemaValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/validation/ValidationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/validation/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AddStudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studenti.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studenti.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/teme.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vasile.txt" afterDir="false" />
+    <list default="true" id="6209b9d1-8101-45a7-ae12-e04861e575e9" name="Changes" comment="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +50,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AddStudentTest.testAddStudentWithNullId">
+  <component name="RunManager">
     <configuration name="AddStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SSVVProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -161,11 +118,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711276417296</updated>
-      <workItem from="1711276418706" duration="5478000" />
+      <workItem from="1711276418706" duration="6291000" />
     </task>
+    <task id="LOCAL-00001" summary="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality">
+      <option name="closed" value="true" />
+      <created>1711282685063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711282685063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="- initial commit&#10;- created maven project&#10;- created TC for AddStudent functionality" />
   </component>
 </project>
